@@ -10,6 +10,9 @@ We the first prize in Anti-UAV 2020 challenge, CVPRW 2020.
 
 ## Research
 
+### MM 2020: [Accurate UAV Tracking with Distance-Injected Overlap Maximization](https://2020.acmmm.org/)
+
+UAV tracking is usually challenged by the dual-dynamic disturbances that arise from not only diverse moving target but also motion camera, leading to a more serious model drift issue than traditional visual tracking. In this work, we propose to alleviate this issue with distance-injected overlap maximization. Our idea is improving the accuracy of target localization by deriving a conceptually simple target localization loss and a global feature recalibration scheme in a mutual reinforced way. In particular, the target localization loss is designed by simply incorporating the normalized distance of target offset and generic semantic IoU loss, resulting in the distance-injected semantic IoU loss, and its minimal solution can alleviate the drift problem caused by camera motion. Moreover, the deep feature extractor is reconstructed and alternated with a feature recalibration network, which can leverage the global information to recalibrate significant features and suppress negligible features. Following by multi-scale feature concat, the proposed tracker can improve the discriminative capability of feature representation for UAV targets on the fly. Extensive experimental results on four benchmarks, \ie~UAV123, UAVDT, DTB70, and VisDrone, demonstrate the superiority of the proposed tracker against existing state-of-the-arts on UAV tracking.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
