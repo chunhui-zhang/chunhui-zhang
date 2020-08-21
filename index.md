@@ -6,6 +6,8 @@ I received his B.S. degree from the School of Mathematics and Computational Scie
 
 One paper accepted in ACM MM 2020.
 
+We the first prize in Anti-UAV 2020 challenge, CVPRW 2020.
+
 ## Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
