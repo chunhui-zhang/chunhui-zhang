@@ -1,7 +1,6 @@
-@inproceedings{SGe2020TNNLS,
+@article{SGe2020TNNLS,
 author = {Shiming Ge, and Chunhui Zhang, and Shikun Li, and Dan Zeng, and Dacheng Tao},
 title = {Cascaded Correlation Refinement for Robust Deep Tracking},
 booktitle = {IEEE Transactions on Neural Networks and Learning Systems},
 year = {2020},
 }
-
