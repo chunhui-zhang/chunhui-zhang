@@ -19,7 +19,7 @@
 <body>
 
 <div class="image-txt-container">
-	<div>
+<div>
 <h2>Biography</h2>
 I received my B.S. degree from the School of Mathematics and Computational Science at Hunan University of Science and Technology. I am currently a Master student at the Institute of Information Engineering at Chinese Academy of Sciences and the School of Cyber Security at the University of Chinese Academy of Sciences. My major research interests include machine learning and visual tracking.
 		
@@ -30,9 +30,9 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 </div>
 <img src="chunhui.jpg" class="profile-image">
 </div>
+
 <h2>Research</h2>
 Selected research projects and papers.
-
 
 <h3><b>MM 2020:</b> <a href="https://2020.acmmm.org">Accurate UAV Tracking with Distance-Injected Overlap Maximization</a></h3>
 <div class="image-txt-container">
@@ -63,11 +63,11 @@ Shiming Ge, and Chunhui Zhang, and Shikun Li, and Dan Zeng, and Dacheng Tao, Cas
 Chunhui Zhang, and Shiming Ge, and Yingying Hua, and Dan Zeng, Robust Deep Tracking with Two-step Augmentation Discriminative Correlation Filters, ICME 2020 [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/ICME_BibTex">BibTex</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">code</a>]
 <br>
 
-<h2>Awards<h2>
-	<br>The First Prize in Anti-UAV 2020 Challenge, CVPRW 2020.<br>
-	<br>The First Prize in VisDrone 2019 Task 3: Single-object Tracking Challenge, ICCVW 2019.<br>
-	<br>The First Prize in the China Post-graduate Mathematical Contest in Modeling.<br>
-	<br>The National Scholarship.<br>
+<h2>Awards</h2>
+<br>The First Prize in Anti-UAV 2020 Challenge, CVPRW 2020.<br>
+<br>The First Prize in VisDrone 2019 Task 3: Single-object Tracking Challenge, ICCVW 2019.<br>
+<br>The First Prize in the China Post-graduate Mathematical Contest in Modeling.<br>
+<br>The National Scholarship.<br>
 
 <h2>Support or Contact</h2>
 zhangchunhui@iie.ac.cn
