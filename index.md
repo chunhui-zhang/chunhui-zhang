@@ -27,11 +27,9 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 <b>News:</b> One paper accepted in ACM MM 2020.
 <br>We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br><br>
-
 </div>
 <img src="chunhui.jpg" class="profile-image">
 </div>
-
 <h2>Research</h2>
 Selected research projects and papers.
 
