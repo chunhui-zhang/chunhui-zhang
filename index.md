@@ -62,7 +62,7 @@ Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with D
 <br>Chunhui Zhang, Shiming Ge, Yingying Hua, Dan Zeng, Robust Deep Tracking with Two-step Augmentation Discriminative Correlation Filters, ICME 2019 [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/ICME_BibTex">BibTex</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">code</a>]<br>
 
 <h2>Awards</h2>
-The First Prize in Anti-UAV 2020 Challenge, CVPR Workshop 2020.
+<br>The First Prize in Anti-UAV 2020 Challenge, CVPR Workshop 2020.<br>
 
 <br>The First Prize in VisDrone 2019 Task 3: Single-object Tracking Challenge, ICCV Workshop 2019.<br>
 
@@ -71,7 +71,7 @@ The First Prize in Anti-UAV 2020 Challenge, CVPR Workshop 2020.
 <br>The National Scholarship.<br>
 
 <h2>Support or Contact</h2>
-zhangchunhui@iie.ac.cn
+<br>zhangchunhui@iie.ac.cn<br>
 
 
 </body>
