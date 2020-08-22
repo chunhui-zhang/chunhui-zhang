@@ -1,0 +1,8 @@
+@article{SGe2020TIP,
+  title = {Distilling Channels for Efficient Deep Tracking},
+  author = {Shiming Ge, and Zhao Luo, and Chunhui Zhang, and Yingying Hua, and Dacheng Tao},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {29},
+  pages = {2610--2621},
+  year = {2020},
+}
