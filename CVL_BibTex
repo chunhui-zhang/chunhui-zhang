@@ -2,6 +2,6 @@
   title = {Coupled-view Deep Classifier Learning from Multiple Noisy Annotators},
   author = {Shikun Li, and Shiming Ge, and Yingying Hua, and Chunhui Zhang, and Hao Wen, and Tengfei Liu, and Weiqiang Wang},
   booktitle = {AAAI 2020: The Thirty-Fourth AAAI Conference on Artificial Intelligence},
-  pages ={ 4667--4674},
+  pages = { 4667--4674},
   year = {2020},
 }
