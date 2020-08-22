@@ -40,7 +40,7 @@ Selected research projects and papers.
 <div class="image-txt-container">
 <img src="Motivation.png" class="item-image">
 <div>
-In this work, we propose distance-injected overlap maximization for accurate UAV tracking. We use distance-injected semantic IoU loss to alleviate the drift problem caused by dual-dynamic disturbances. Furthermore, we conduct feature recalibration network and multi-scale feature concat that improve adaptive feature extraction for UAV targets on the fly.
+In this work, we propose distance-injected overlap maximization for accurate UAV tracking. We use distance-injected semantic IoU loss to alleviate the drift problem caused by dual-dynamic disturbances. Furthermore, we conduct feature recalibration network and multi-scale feature concat that improve adaptive feature extraction for targets on the fly.
 <br> <b>[<a href="https://2020.acmmm.org">Project</a>] [<a href="https://2020.acmmm.org/">Paper</a>] [<a href="https://2020.acmmm.org/">Code</a>] </b>
 </div></div>
 
