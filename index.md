@@ -51,9 +51,7 @@ In this paper, we propose a cascaded correlation refinement approach to facilita
 </div></div>
 
 <h2>Publications</h2>
-<br>
 Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://2020.acmmm.org/">PDF(baidu:xxxx)</a>] [<a href="https://2020.acmmm.org/">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://2020.acmmm.org/">code</a>]
-<br>
 
 <br>
 Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2020 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]
@@ -73,7 +71,7 @@ Chunhui Zhang, Shiming Ge, Yingying Hua, Dan Zeng, Robust Deep Tracking with Two
 
 
 <h2>Awards</h2>
-<br>The First Prize in Anti-UAV 2020 Challenge, CVPR Workshop 2020.<br>
+The First Prize in Anti-UAV 2020 Challenge, CVPR Workshop 2020.
 <br>The First Prize in VisDrone 2019 Task 3: Single-object Tracking Challenge, ICCV Workshop 2019.<br>
 <br>The First Prize in the China Post-graduate Mathematical Contest in Modeling.<br>
 <br>The National Scholarship.<br>
