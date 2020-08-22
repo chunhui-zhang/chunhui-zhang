@@ -52,16 +52,25 @@ In this paper, we propose a cascaded correlation refinement approach to facilita
 
 <h2>Publications</h2>
 <br>
-Chunhui Zhang, Shiming Ge, Kangkai Zhang, and Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://2020.acmmm.org/">PDF(baidu:xxxx)</a>] [<a href="https://2020.acmmm.org/">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://2020.acmmm.org/">code</a>]
+Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://2020.acmmm.org/">PDF(baidu:xxxx)</a>] [<a href="https://2020.acmmm.org/">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://2020.acmmm.org/">code</a>]
 <br>
 
 <br>
-Shiming Ge, Chunhui Zhang, Shikun Li, Dan Zeng, and Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2020 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]
+Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2020 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]
 <br>
 
 <br>
-Chunhui Zhang, Shiming Ge, Yingying Hua, and Dan Zeng, Robust Deep Tracking with Two-step Augmentation Discriminative Correlation Filters, ICME 2019 [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/ICME_BibTex">BibTex</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">code</a>]
+Shiming Ge, Zhao Luo, Chunhui Zhang, Yingying Hua, Dacheng Tao, Distilling Channels for Efficient Deep Tracking, TIP 2020 [<a href="https://ieeexplore.ieee.org/document/8891903">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8891903">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/TIPCD_BibTex">BibTex</a>]
 <br>
+
+<br>
+Shikun Li, Shiming Ge, Yingying Hua, Chunhui Zhang, Hao Wen, Tengfei Liu, Weiqiang Wang, Coupled-View Deep Classifier Learning from Multiple Noisy Annotators, AAAI 2020 [<a href="https://academic.microsoft.com/paper/2997312573">PDF(baidu:xxxx)</a>] [<a href="https://2020.acmmm.org/">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CVL_BibTex">BibTex</a>] [<a href="https://academic.microsoft.com/paper/2997312573">code</a>]
+<br>
+
+<br>
+Chunhui Zhang, Shiming Ge, Yingying Hua, Dan Zeng, Robust Deep Tracking with Two-step Augmentation Discriminative Correlation Filters, ICME 2019 [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/ICME_BibTex">BibTex</a>] [<a href="https://ieeexplore.ieee.org/document/8785041">code</a>]
+<br>
+
 
 <h2>Awards</h2>
 <br>The First Prize in Anti-UAV 2020 Challenge, CVPR Workshop 2020.<br>
