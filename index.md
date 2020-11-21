@@ -39,10 +39,10 @@ Selected research projects and papers.
 <img src="UTrack.png" class="item-image">
 <div>
 In this work, we propose distance-injected overlap maximization for accurate UAV tracking. We use distance-injected semantic IoU loss to alleviate the drift problem caused by dual-dynamic disturbances. Furthermore, we conduct feature recalibration network and multi-scale feature concat that improve adaptive feature extraction for UAV targets.
-<br> <b>[<a href="https://2020.acmmm.org">Project</a>] [<a href="https://2020.acmmm.org/">Paper</a>] [<a href="https://2020.acmmm.org/">Code</a>] </b>
+<br> <b>[<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Project</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Paper</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Code</a>] </b>
 </div></div>
 
-<h3><b>TNNLS 2020:</b> <a href="https://2020.acmmm.org">Cascaded Correlation Refinement for Robust Deep Tracking</a></h3>
+<h3><b>TNNLS 2020:</b> <a href="https://ieeexplore.ieee.org/document/9069312">Cascaded Correlation Refinement for Robust Deep Tracking</a></h3>
 <div class="image-txt-container">
 <img src="CCR.png" class="item-image">
 <div>
@@ -51,7 +51,7 @@ In this paper, we propose a cascaded correlation refinement approach to facilita
 </div></div>
 
 <h2>Publications</h2>
-<br>Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://2020.acmmm.org/">PDF(baidu:xxxx)</a>] [<a href="https://2020.acmmm.org/">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://2020.acmmm.org/">code</a>]<br>
+<br>Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(baidu:xxxx)</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">code</a>]<br>
 
 <br>Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2020 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>
 
