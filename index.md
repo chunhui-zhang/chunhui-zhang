@@ -54,9 +54,10 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 <br> <b>[<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Project</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Paper</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Code</a>] </b>
 </div></div>
 
+		
+<h2>Publications</h2>
 <br>Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2021 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>	
 	
-<h2>Publications</h2>
 <br>Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(baidu:xxxx)</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">code</a>]<br>
 
 <br>Shiming Ge, Zhao Luo, Chunhui Zhang, Yingying Hua, Dacheng Tao, Distilling Channels for Efficient Deep Tracking, TIP 2020 [<a href="https://ieeexplore.ieee.org/document/8891903">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8891903">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/TIPCD_BibTex">BibTex</a>]<br>
