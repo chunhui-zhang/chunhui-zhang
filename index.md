@@ -77,7 +77,8 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 
 
 <h2>Support or Contact</h2>
-<br>zhangchunhui17@mails.ucas.ac.cn<br>
+	
+<br>andyzhangchunhui@gmail.com, zhangchunhui17@mails.ucas.ac.cn<br>
 
 
 </body>
