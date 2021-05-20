@@ -46,7 +46,7 @@ In this paper, we propose a cascaded correlation refinement approach to facilita
 <br> <b>[<a href="https://github.com/983632847/CCR">Project</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">Paper</a>] [<a href="https://github.com/983632847/CCR">Code</a>] </b>
 </div></div>	
 	
-<h3><b>MM 2020:</b> <a href="https://2020.acmmm.org">Accurate UAV Tracking with Distance-Injected Overlap Maximization</a></h3>
+<h3><b>ACM MM 2020:</b> <a href="https://2020.acmmm.org">Accurate UAV Tracking with Distance-Injected Overlap Maximization</a></h3>
 <div class="image-txt-container">
 <img src="UTrack.png" class="item-image">
 <div>
