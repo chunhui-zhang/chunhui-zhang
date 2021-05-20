@@ -21,7 +21,7 @@
 <div class="image-txt-container">
 <div>
 <h2>Biography</h2>
-I received my B.S. degree from the School of Mathematics and Computational Science at Hunan University of Science and Technology. I am currently a Master student at the Institute of Information Engineering at Chinese Academy of Sciences and the School of Cyber Security at the University of Chinese Academy of Sciences. My major research interests include machine learning and visual tracking.
+I received my B.S. degree from the School of Mathematics and Computational Science at Hunan University of Science and Technology. I am currently a Master student at the Institute of Information Engineering at Chinese Academy of Sciences and the School of Cyber Security at the University of Chinese Academy of Sciences. My major research interests include machine learning, contrastive learning and visual tracking.
 		
 <br><br>
 **:star2: News:** 
