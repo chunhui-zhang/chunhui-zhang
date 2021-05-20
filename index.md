@@ -26,7 +26,7 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 <br><br>
 **:star2: News:** 
 <br><b>*One paper has been accepted by MICCAI 2021.</b><br> 
-<br><b>*One paper was published in IEEE Transactions on Neural Networks and Learning Systems 2021.</b><br>
+<br><b>*One paper was published in IEEE TNNLS 2021.</b><br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br>*One paper was accepted in ACM MM 2020.<br>
 
