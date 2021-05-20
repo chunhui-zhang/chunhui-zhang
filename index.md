@@ -26,6 +26,7 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 <br><br>
 **:star2: News:** 
 <br><b>*One paper has been accepted by MICCAI 2021.</b><br> 
+<br><b>*One paper was published in IEEE Transactions on Neural Networks and Learning Systems.</b><br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br>*One paper was accepted in ACM MM 2020.<br>
 
@@ -45,7 +46,7 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 <br> <b>[<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Project</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Paper</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Code</a>] </b>
 </div></div>
 
-<h3><b>TNNLS 2020:</b> <a href="https://ieeexplore.ieee.org/document/9069312">Cascaded Correlation Refinement for Robust Deep Tracking</a></h3>
+<h3><b>TNNLS 2021:</b> <a href="https://ieeexplore.ieee.org/document/9069312">Cascaded Correlation Refinement for Robust Deep Tracking</a></h3>
 <div class="image-txt-container">
 <img src="CCR.png" class="item-image">
 <div>
@@ -53,10 +54,10 @@ In this paper, we propose a cascaded correlation refinement approach to facilita
 <br> <b>[<a href="https://github.com/983632847/CCR">Project</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">Paper</a>] [<a href="https://github.com/983632847/CCR">Code</a>] </b>
 </div></div>
 
+<br>Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2021 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>	
+	
 <h2>Publications</h2>
 <br>Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(baidu:xxxx)</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">code</a>]<br>
-
-<br>Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2020 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>
 
 <br>Shiming Ge, Zhao Luo, Chunhui Zhang, Yingying Hua, Dacheng Tao, Distilling Channels for Efficient Deep Tracking, TIP 2020 [<a href="https://ieeexplore.ieee.org/document/8891903">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/8891903">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/TIPCD_BibTex">BibTex</a>]<br>
 
