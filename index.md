@@ -24,7 +24,7 @@
 I received my B.S. degree from the School of Mathematics and Computational Science at Hunan University of Science and Technology. I am currently a Master student at the Institute of Information Engineering at Chinese Academy of Sciences and the School of Cyber Security at the University of Chinese Academy of Sciences. My major research interests include machine learning, contrastive learning and visual tracking.
 		
 <br><br>
-**:star2: News:** 
+<h2>News<\h2>
 <br><b>*One paper has been accepted by MICCAI 2021.</b><br> 
 <br><b>*One paper was published in IEEE TNNLS 2021.</b><br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
