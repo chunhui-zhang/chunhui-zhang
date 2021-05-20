@@ -27,7 +27,7 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 **:star2: News:** 
 <br>*One paper has been provisional accept by MICCAI 2021.<br> 
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
-<br>*One paper accepted in ACM MM 2020.<br>
+<br>*One paper was accepted in ACM MM 2020.<br>
 
 <br><br>
 </div>
