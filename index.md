@@ -38,20 +38,20 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 <h2>Research</h2>
 Selected research projects and papers.
 
-<h3><b>MM 2020:</b> <a href="https://2020.acmmm.org">Accurate UAV Tracking with Distance-Injected Overlap Maximization</a></h3>
-<div class="image-txt-container">
-<img src="UTrack.png" class="item-image">
-<div>
-In this work, we propose distance-injected overlap maximization for accurate UAV tracking. We use distance-injected semantic IoU loss to alleviate the drift problem caused by dual-dynamic disturbances. Furthermore, we conduct feature recalibration network and multi-scale feature concat that improve adaptive feature extraction for UAV targets.
-<br> <b>[<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Project</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Paper</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Code</a>] </b>
-</div></div>
-
 <h3><b>TNNLS 2021:</b> <a href="https://ieeexplore.ieee.org/document/9069312">Cascaded Correlation Refinement for Robust Deep Tracking</a></h3>
 <div class="image-txt-container">
 <img src="CCR.png" class="item-image">
 <div>
 In this paper, we propose a cascaded correlation refinement approach to facilitate the robustness of deep tracking. Our approach cascades multiple stages of correlation refinement to progressively refine target localization. We introduce an explicit measure to identify the tracking failure and then leverage a simple yet effective look-back scheme to adaptively incorporate the initial model and on-the-fly model to update the tracking model.
 <br> <b>[<a href="https://github.com/983632847/CCR">Project</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">Paper</a>] [<a href="https://github.com/983632847/CCR">Code</a>] </b>
+</div></div>	
+	
+<h3><b>MM 2020:</b> <a href="https://2020.acmmm.org">Accurate UAV Tracking with Distance-Injected Overlap Maximization</a></h3>
+<div class="image-txt-container">
+<img src="UTrack.png" class="item-image">
+<div>
+In this work, we propose distance-injected overlap maximization for accurate UAV tracking. We use distance-injected semantic IoU loss to alleviate the drift problem caused by dual-dynamic disturbances. Furthermore, we conduct feature recalibration network and multi-scale feature concat that improve adaptive feature extraction for UAV targets.
+<br> <b>[<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Project</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Paper</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">Code</a>] </b>
 </div></div>
 
 <br>Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, TNNLS 2021 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu:xxxx)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>	
