@@ -2,5 +2,6 @@
 author = {Chunhui Zhang, and Shiming Ge, and Kangkai Zhang, and Dan Zeng},
 title = {Accurate UAV Tracking with Distance-Injected Overlap Maximization},
 booktitle = {ACM Multimedia},
+pages = {565--573},
 year = {2020}
 }
