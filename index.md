@@ -75,7 +75,12 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 <br>The First Prize in the China Post-graduate Mathematical Contest in Modeling 2017.<br>
 <br>The National Scholarship 2015.<br>
 
-
+<h2>Committees or panels</h2>
+Student Member of Chinese Society of Industrial and Applied Mathematics, 2018-present.
+	
+<h2>Review experience</h2>
+A reviewer of the IEEE TNNLS, IEEE TIP, AAAI and CVPR, etc.	
+	
 <h2>Support or Contact</h2>
 	
 <br>andyzhangchunhui@gmail.com, zhangchunhui17@mails.ucas.ac.cn<br>
