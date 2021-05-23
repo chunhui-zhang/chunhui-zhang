@@ -58,7 +58,7 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 
 		
 <h2>Publications</h2>
-<br>Yixiong Chen, and Chunhui Zhang, and Li Liu, and Cheng Feng, and Changfeng Dong, and Yongfang Luo, and Xiang Wan, Effective Sample Pair Generation for Ultrasound Video Contrastive Representation Learning, arXiv 2020 (Co-first author) [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu)</a>] [<a href="https://arxiv.org/abs/2011.13066">PDF(arXiv)</a>] [<a href="https://github.com/983632847/USCL">code</a>]<br>
+<br>Yixiong Chen, and <b>Chunhui Zhang</b>, and Li Liu, and Cheng Feng, and Changfeng Dong, and Yongfang Luo, and Xiang Wan, Effective Sample Pair Generation for Ultrasound Video Contrastive Representation Learning, arXiv 2020 (Co-first author) [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu)</a>] [<a href="https://arxiv.org/abs/2011.13066">PDF(arXiv)</a>] [<a href="https://github.com/983632847/USCL">code</a>]<br>
 	
 <br>Shiming Ge, Chunhui Zhang, and Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, IEEE TNNLS 2021 [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>	
 	
