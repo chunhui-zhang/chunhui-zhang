@@ -34,7 +34,7 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 
 <br><br>
 </div>
-<img src="chunhui.jpg" class="profile-image">
+<img src="chunhuizhang.jpg" class="profile-image">
 </div>
 
 <h2>Research</h2>
