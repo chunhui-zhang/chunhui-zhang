@@ -27,8 +27,8 @@ I received my B.S. degree from the School of Mathematics and Computational Scien
 		
 <br><br>
 <h2> News </h2>
-<br><b>*One paper has been accepted by IEEE TCSVT 2021.</b><br> 
 <br><b>*One paper has been accepted by MICCAI 2021.</b><br> 
+<br><b>*One paper has been accepted by IEEE TCSVT 2021.</b><br> 
 <br><b>*One paper was published in IEEE TNNLS 2021.</b><br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br>*One paper was accepted in ACM MM 2020.<br>
@@ -59,10 +59,10 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 
 		
 <h2>Publications</h2>  
+<br>Yixiong Chen*, <b>Chunhui Zhang*</b>, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo, Xiang Wan, USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning, MICCAI (Co-first author) [<a href="https://arxiv.org/abs/2011.13066">PDF(arXiv)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/USCL_BibTex">BibTex</a>] [<a href="https://github.com/983632847/USCL">code</a>]<br>
+	
 <br>Kangkai Zhang, <b>Chunhui Zhang</b>, Shikun Li, Dan Zeng, Shiming Ge, Student Network Learning via Evolutionary Knowledge Distillation, IEEE TCSVT 2021 [<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">PDF(baidu)</a>] [<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">PDF(google)</a>] [<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">BibTex</a>] [<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">code</a>]<br>	
-	
-<br>Yixiong Chen*, <b>Chunhui Zhang*</b>, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo, Xiang Wan, Effective Sample Pair Generation for Ultrasound Video Contrastive Representation Learning, arXiv 2020 (Co-first author) [<a href="https://arxiv.org/abs/2011.13066">PDF(arXiv)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/USCL_BibTex">BibTex</a>] [<a href="https://github.com/983632847/USCL">code</a>]<br>
-	
+		
 <br>Shiming Ge, <b>Chunhui Zhang</b>, Shikun Li, Dan Zeng, Dacheng Tao, Cascaded Correlation Refinement for Robust Deep Tracking, IEEE TNNLS 2021 (Student First Author)[<a href="https://ieeexplore.ieee.org/document/9069312">PDF(baidu)</a>] [<a href="https://ieeexplore.ieee.org/document/9069312">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/CCR_BibTex">BibTex</a>] [<a href="https://github.com/983632847/CCR">code</a>]<br>	
 	
 <br><b>Chunhui Zhang</b>, Shiming Ge, Kangkai Zhang, Dan Zeng, Accurate UAV Tracking with Distance-Injected Overlap Maximization, ACM MM 2020 (Oral) [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(baidu)</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">PDF(google)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/UTrack_BibTex">BibTex</a>] [<a href="https://dl.acm.org/doi/10.1145/3394171.3413959">code</a>]<br>
