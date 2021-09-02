@@ -80,7 +80,7 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 <br>The First Prize in the Post-graduate Group of the Eighth MathorCup Mathematical Modeling Challenge 2018.<br>		
 <br>The First Prize in the China Post-graduate Mathematical Contest in Modeling 2017.<br>
 <br>The Honor of “Excellent Graduate” of the Hunan Province 2016.<br>
-<br>The H Prize in the American University Students Mathematical Contest in Modeling 2016.<br>
+<br>The Second Prize in the American University Students Mathematical Contest in Modeling 2016.<br>
 <br>The National Scholarship 2015.<br>
 <br>The Second Prize in the National University Students Mathematical Modeling Contest 2015.<br>
 <br>The First Prize in the National University Students Mathematical Modeling Contest 2014.<br>
