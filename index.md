@@ -36,6 +36,7 @@ I am currently pursuing a Ph.D. degree at Shanghai Jiao Tong University, China. 
 <br>*One paper was published in IEEE TNNLS 2021.<br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br>*One paper was accepted in ACM MM 2020.<br>
+<br>*We won the first prize in VisDrone 2019 challenge, ICCVW 2019.<br>
 
 <br><br>
 </div>
