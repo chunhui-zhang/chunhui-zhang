@@ -31,9 +31,9 @@ I am currently pursuing a Ph.D. degree at Shanghai Jiao Tong University, China. 
 <br><b>*One paper has been accepted by ICASSP 2023.</b><br> 
 <br><b>*One paper was published in IEEE TPAMI 2022.</b><br> 
 <br><b>*One paper has been accepted by ACCV 2022.</b><br> 
-<br><b>*One paper has been accepted by MICCAI 2021.</b><br> 
-<br><b>*One paper has been accepted by IEEE TCSVT 2021.</b><br> 
-<br><b>*One paper was published in IEEE TNNLS 2021.</b><br>
+<br>*One paper has been accepted by MICCAI 2021.<br> 
+<br>*One paper has been accepted by IEEE TCSVT 2021.<br> 
+<br>*One paper was published in IEEE TNNLS 2021.<br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br>*One paper was accepted in ACM MM 2020.<br>
 
