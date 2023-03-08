@@ -64,7 +64,7 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 
 		
 <h2>Publications</h2>  
-<br><b>Chunhui Zhang*</b>, Guanjie Huang*, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao, WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking, TPAMI 2022 (Co-first author) [<a href="[https://arxiv.org/abs/2011.13066](https://ieeexplore.ieee.org/document/10004511)">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="[https://github.com/983632847/USCL](https://github.com/983632847/WebUAV-3M)">Project</a>]<br>	
+<br><b>Chunhui Zhang*</b>, Guanjie Huang*, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao, WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking, TPAMI 2022 (Co-first author) [<a href="https://ieeexplore.ieee.org/document/10004511">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="https://github.com/983632847/WebUAV-3M">Project</a>]<br>	
 	
 <br>Yixiong Chen*, <b>Chunhui Zhang*</b>, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo, Xiang Wan, USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning, MICCAI 2021 (Co-first author, Oral) [<a href="https://arxiv.org/abs/2011.13066">PDF(arXiv)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/USCL_BibTex">BibTex</a>] [<a href="https://github.com/983632847/USCL">code</a>]<br>
 	
