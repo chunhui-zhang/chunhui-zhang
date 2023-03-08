@@ -98,6 +98,7 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 <br>The National Encouragement Scholarship 2013.<br>
 	
 <h2>Committees or panels</h2>
+<br>Student Member, IEEE, 2023.<br>
 <br>Student Member of Chinese Society of Industrial and Applied Mathematics, 2018-present.<br>
 	
 <h2>Review experience</h2>
