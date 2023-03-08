@@ -86,6 +86,7 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 
 
 <h2>Awards</h2>
+<br>Shanghai Jiao Tong University Outstanding Engineer Reserve Talent Training Program, 2022<br>
 <br>The First Prize in Anti-UAV 2020 Challenge, CVPR Workshops 2020.<br>
 <br>The First Prize in VisDrone 2019 Task 3: Single-object Tracking Challenge, ICCV Workshops 2019.<br>	
 <br>The First Prize in the Post-graduate Group of the Eighth MathorCup Mathematical Modeling Challenge 2018.<br>		
