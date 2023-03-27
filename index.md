@@ -11,7 +11,7 @@
 }
 .profile-image {
   margin: 0px 0px 0px 0px;
-  width: 400px;
+  width: 300px;
 }
 </style>
 </head>
