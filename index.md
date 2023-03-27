@@ -2,7 +2,7 @@
 <style>
 .image-txt-container {
   display:flex;
-  align-items:center;
+  align-items:left;
   flex-direction: row;
 }
 .item-image {
