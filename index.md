@@ -22,7 +22,9 @@
 <div>
 <h2>Biography</h2>
 
-I am currently pursuing a Ph.D. degree at Shanghai Jiao Tong University, China. I received my B.S. degree from the School of Mathematics and Computational Science at Hunan University of Science and Technology in 2016. I received my M.S. degree from the Institute of Information Engineering，Chinese Academy of Sciences, and the School of Cyber Security at the University of Chinese Academy of Sciences in 2020. I also spent 2 years (2020-2022) at the Chinese University of Hong Kong, Shenzhen as a research associate. My major research interests are focused on self-supervised Learning, UAV tracking and vision-language tracking. <a href="https://scholar.google.com/citations?hl=en&user=r_cpud8AAAAJ">[Google Scholar]</a> <a href="https://github.com/983632847">[Github]</a>
+I am currently pursuing a Ph.D. degree at Shanghai Jiao Tong University, China. I received my B.S. degree from the School of Mathematics and Computational Science at Hunan University of Science and Technology in 2016. I received my M.S. degree from the Institute of Information Engineering，Chinese Academy of Sciences, and the School of Cyber Security at the University of Chinese Academy of Sciences in 2020. I also spent 2 years (2020-2022) at the Chinese University of Hong Kong, Shenzhen as a research associate. My major research interests are focused on self-supervised Learning, UAV tracking and vision-language tracking. 
+	
+<a href="https://scholar.google.com/citations?hl=en&user=r_cpud8AAAAJ">[Google Scholar]</a> <a href="https://github.com/983632847">[Github]</a>
 
 <br><br>
 </div>
