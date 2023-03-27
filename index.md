@@ -10,8 +10,8 @@
   width: 200px;
 }
 .profile-image {
-  margin: 0px 0px 0px 20px;
-  width: 300px;
+  margin: 0px 0px 0px 0px;
+  width: 400px;
 }
 </style>
 </head>
