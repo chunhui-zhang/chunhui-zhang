@@ -38,11 +38,12 @@ I am currently pursuing a Ph.D. degree at Shanghai Jiao Tong University, China. 
 	
 <br><br>
 <h2> News </h2>
+<br><b>*One paper was published in IEEE TMI 2023.</b><br> 	
 <br><b>*One paper has been accepted by ICASSP 2023.</b><br> 
 <br><b>*One paper was published in IEEE TPAMI 2022.</b><br> 
 <br><b>*One paper has been accepted by ACCV 2022.</b><br> 
 <br>*One paper has been accepted by MICCAI 2021.<br> 
-<br>*One paper has been accepted by IEEE TCSVT 2021.<br> 
+<br>*One paper was published in IEEE TCSVT 2021.<br> 
 <br>*One paper was published in IEEE TNNLS 2021.<br>
 <br>*We won the first prize in Anti-UAV 2020 challenge, CVPRW 2020.<br>
 <br>*One paper was accepted in ACM MM 2020.<br>
@@ -72,10 +73,12 @@ In this work, we propose distance-injected overlap maximization for accurate UAV
 		
 <h2>Publications</h2>
 <br>Yizhe Zhu*, <b>Chunhui Zhang*</b>, Qiong Liu, Xi Zhou, Audio-driven Talking Head Video Generation with Diffusion Model, ICASSP 2023 (Co-first author) [<a href="https://arxiv.org/abs/2210.04477">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="https://github.com/983632847/HiCo">Code</a>]<br>
+
+<br>Yixiong Chen, <b>Chunhui Zhang</b>, Chris H. Q. Ding, Li Liu, Generating and Weighting Semantically Consistent Sample Pairs for Ultrasound Contrastive Learning, IEEE TMI  2023 [<a href="https://ieeexplore.ieee.org/document/9980429">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="https://github.com/Schuture/Meta-USCL">Code</a>]<br>	
 	
 <br><b>Chunhui Zhang</b>, Yixiong Chen, Li Liu, Qiong Liu, Xi Zhou, HiCo: Hierarchical Contrastive Learning for Ultrasound Video Model Pretraining, ACCV 2022 [<a href="https://arxiv.org/abs/2210.04477">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="https://github.com/983632847/HiCo">Code</a>]<br>	
 	
-<br><b>Chunhui Zhang*</b>, Guanjie Huang*, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao, WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking, TPAMI 2022 (Co-first author) [<a href="https://ieeexplore.ieee.org/document/10004511">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="https://github.com/983632847/WebUAV-3M">Project</a>]<br>	
+<br><b>Chunhui Zhang*</b>, Guanjie Huang*, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao, WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking, IEEE TPAMI 2022 (Co-first author) [<a href="https://ieeexplore.ieee.org/document/10004511">PDF(arXiv)</a>] [<a href="https://chunhui-zhang.github.io/chunhui-zhang/">BibTex</a>] [<a href="https://github.com/983632847/WebUAV-3M">Project</a>]<br>	
 	
 <br>Yixiong Chen*, <b>Chunhui Zhang*</b>, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo, Xiang Wan, USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning, MICCAI 2021 (Co-first author, Oral) [<a href="https://arxiv.org/abs/2011.13066">PDF(arXiv)</a>] [<a href="https://github.com/chunhui-zhang/chunhui-zhang/blob/gh-pages/USCL_BibTex">BibTex</a>] [<a href="https://github.com/983632847/USCL">Code</a>]<br>
 	
